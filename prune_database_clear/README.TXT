@@ -1,2 +1,1 @@
-Writes SQL backups to
-sugar_cached('backups')
+Writes  no SQL backups, just clears the tables and cstm tables
